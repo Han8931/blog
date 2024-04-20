@@ -1,0 +1,7 @@
+[submodule "hanxyz/themes/gruvhugo"]
+	path = hanxyz/themes/gruvhugo
+	url = https://gitlab.com/avron/gruvhugo.git
+[submodule "hanxyz/public"]
+	path = hanxyz/public
+	url = git@github.com:Han8931/han8931.github.io.git
+	branch = main
